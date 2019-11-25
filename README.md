@@ -5,4 +5,4 @@
 
 ##### Open the file ytvd.py and change the path: stream.download('Path_To_Video_Youtube_Download')
 
-###### At the end Tape in terminal: Python ytvd.py <url of the video to download>
+###### At the end Tape in terminal: Python ytvd.py url_video_youtube
